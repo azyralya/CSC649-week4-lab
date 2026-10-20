@@ -1,7 +1,7 @@
 # Tech Stack Evaluation
 
 ## Project
-[Name of your Assignment 1 or FYP project, in one line]
+[Quranic Text Authentication System]
 
 ## Requirements that drive the decision
 List 3 to 5 requirements from your own docs/requirements.md. Include at
@@ -22,17 +22,17 @@ Weighted score = weight x score. Add them up for each option.
 
 | Criterion                          | Weight | A score | B score | C score |
 |------------------------------------|--------|---------|---------|---------|
-| Fits my requirements               |        |         |         |         |
-| Skills I already have              |        |         |         |         |
-| Time to build before my deadline   |        |         |         |         |
-| Free hosting and tools             |        |         |         |         |
-| Performance and security needs     |        |         |         |         |
-| Room to grow later                 |        |         |         |         |
-| **Total (weighted)**               |        |         |         |         |
+| Fits my requirements               |    4   |         |         |         |
+| Skills I already have              |    3   |         |         |         |
+| Time to build before my deadline   |    4   |         |         |         |
+| Free hosting and tools             |    3   |         |         |         |
+| Performance and security needs     |    3   |         |         |         |
+| Room to grow later                 |    2   |         |         |         |
+| **Total (weighted)**               |   19   |         |         |         |
 
 ## Decision record
 - **Context:** [what problem, and what limits (time, skills, cost)]
 - **Decision:** [the option you chose]
 - **Reasons:** [2 to 3 reasons, linked to your requirements and the matrix]
-- **Consequences:** [what becomes easy, what becomes hard]
+- **Consequences:** [To authenticate the quran texts]
 - **Risks and next review:** [what could go wrong, and when you will check again]
